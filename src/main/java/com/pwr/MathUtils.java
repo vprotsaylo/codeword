@@ -2,9 +2,9 @@ package com.pwr;
 
 import java.math.BigDecimal;
 
-public class MathUtil {
+public class MathUtils {
 
-    private MathUtil() {
+    private MathUtils() {
         throw new UnsupportedOperationException("This is utility class, so it can not be instantiated!");
     }
 
