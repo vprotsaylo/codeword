@@ -4,7 +4,7 @@ import java.math.BigDecimal;
 
 public class Abc {
 
-    public static final String ENGLISH_LETTERS = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";
+    public static final String ENGLISH_ALPHABET_LETTERS = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";
 
     private final int letters;
     private BigDecimal maxPasswords;
